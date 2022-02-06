@@ -28,4 +28,4 @@ on the [Slash Golf Website](https://slashgolf.dev).
     2. If any of the provided players are not trackable (not playing this tournament, cut, etc.), they will be ignored
 4. Feel free to open an issue, submit a PR, or fork for you own use!
 
-:computer: Happy coding! :computer:
+## :computer: Happy coding! :computer:
