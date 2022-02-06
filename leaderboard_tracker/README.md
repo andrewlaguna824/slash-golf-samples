@@ -1,6 +1,6 @@
-:golf: # Leaderboard Tracker
+# :golf: Leaderboard Tracker
 
-:book: ## Overview
+## :book: Overview
 This sample program tracks player leaderboard movements for the current week's golf tournament. On each poll of the
 leaderboard, a player's new leaderboard position is compared with his old position. If a player changes positions since
 the last poll, an alert is printed to the console.
@@ -9,7 +9,7 @@ This is a great starter program for learning how to use the Live Golf Data API p
 RapidAPI [here](https://rapidapi.com/slashgolf/api/live-golf-data/). You can learn more and find `openAPI` documentation
 on the [Slash Golf Website](https://slashgolf.dev).
 
-:tada: ## Quickstart
+## :tada: Quickstart
 1. Install the necessary modules using pip: `pip install -r requirements.txt`
 2. Add your RapidAPI API key to `RAPID_API_KEY` in [config.py]("config.py")
 3. Run `tracker.py` using python (tested on Python 3.9.2), which will track the current top 10 players on the leaderboard as a default
